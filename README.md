@@ -1,0 +1,1 @@
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Insominia%20Demo&uri=https%3A%2F%2Fgithub.com%2FRandintN%2Finsominia-demo%2Fblob%2Fmaster%2FInsomnia-All_2022-06-18.json)
